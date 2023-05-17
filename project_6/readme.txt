@@ -1,0 +1,1 @@
+recreating amamzon page using html and css
